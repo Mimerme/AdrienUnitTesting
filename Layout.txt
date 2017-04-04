@@ -1,0 +1,8 @@
+- Test Runner -
+-> setCategory <-
+-> TestFunctions <-
+--> Comparisons <--
+-> Test (description, testFunction, options) <-
+--> OnFail   <--
+--> OnSucess <--
+--> OnDump   <--
